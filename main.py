@@ -1,5 +1,5 @@
 import random
-from choose_gender import init_choose
+from choose import init_choose
 
 def main():
     print("choose language: \n 1 - Русский \n 2 - English")
